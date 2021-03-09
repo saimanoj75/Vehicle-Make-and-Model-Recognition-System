@@ -5,4 +5,5 @@
 its make and model.
 • The model is made of Convolutional Neural Network.
 • Using the transfer learning the model has achieved a top accuracy score of 93 Percentage.
-• Technologies : Python, Tensor Flow.
+
+# Technologies : Python, Tensor Flow.
